@@ -1,5 +1,5 @@
 # Mactrix
-<a href="https://matrix.to/#/#mactrix:ludoviko.ch"><img alt="Chat on Matrix" src="https://img.shields.io/matrix/mactrix:ludoviko.ch?server_fqdn=matrix.ludoviko.ch?color=89dceb&logo=gitter&logoColor=89dceb&style=for-the-badge&labelColor=313244"></a>
+<a href="https://matrix.to/#/#mactrix:ludoviko.ch"><img alt="Chat on Matrix" src="https://img.shields.io/matrix/mactrix:ludoviko.ch?color=ef9f76&logo=matrix&server_fqdn=matrix.ludoviko.ch&style=for-the-badge&labelColor=414559"></a>
 
 Viewing this on GitHub? All the real work happens on [Gitea](https://git.ludoviko.ch/lucxjo/mactrix)
 
